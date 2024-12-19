@@ -1,0 +1,125 @@
+.nav-item{
+    font-size: 1.2rem;
+    font-weight: 500;
+    margin-right: 1.5rem;
+    cursor: pointer;
+    color: #18191F;
+
+}
+.navbar{
+    display: flex;
+    justify-items: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+    background-color: #fff;
+}
+.nav-item{
+    font-size: 1.2rem;
+    font-weight: 500;
+    margin-right: 1.5rem;
+    cursor: pointer;
+    color: #18191F;
+    display: flex;
+    justify-content: space-between;
+
+}
+.menu-item .nav-link{
+font-family: 'Poppins', sans-serif, Arial, Helvetica, sans-serif;
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #18191F;
+
+
+}
+.menu_right .nav-li{
+font-family: 'Poppins', sans-serif, Arial, Helvetica, sans-serif;
+font-size: 14px;
+font-weight: 500;
+line-height: 20px;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #FFFFFF;
+background: #4CAF4F;
+text-decoration: none;
+padding: 10px 20px;
+border-radius: 10px;
+}
+.menu_right .nav-lin{
+font-family: 'Poppins', sans-serif, Arial, Helvetica, sans-serif;
+font-size: 14px;
+font-weight: 500;
+line-height: 20px;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #4CAF4F;
+text-decoration: none;
+padding: 10px 20px;
+border-radius: 10px;
+}
+.menu_right .nav-lin:hover{
+font-family: 'Poppins', sans-serif, Arial, Helvetica, sans-serif;
+font-size: 14px;
+font-weight: 500;
+line-height: 20px;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+background-color: #4CAF4F;
+color: #FFFFFF;
+text-decoration: none;
+padding: 10px 20px;
+border-radius: 10px;
+}
+.hero-section .header1{
+    font-family: 'Poppins', sans-serif, Arial, Helvetica, sans-serif;
+    font-size: 64px;
+    font-weight: 600;
+    line-height: 76px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #18191F;
+
+}
+.hero-section .header2{
+    font-family: 'Poppins', sans-serif, Arial, Helvetica, sans-serif;
+    font-size: 64px;
+    font-weight: 600;
+    line-height: 76px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color:  #4CAF4F;
+
+}
+.hero-section p{
+    font-family: 'Poppins', sans-serif, Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #18191F;
+    
+
+}
+.hero-section button{
+    width: Hug (128px)px;
+    height: Hug (52px)px;
+    padding: 14px 32px 14px 32px;
+    gap: 10px;
+    border-radius: 4px 0px 0px 0px;
+    opacity: 0px;
+    border: none;
+    color: #FFFFFF;
+    background: #4CAF4F;
+    
+
+}
